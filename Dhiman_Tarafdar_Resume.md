@@ -111,7 +111,7 @@ B.Sc. in Computer Science and Engineering
 
 ## 🏆 Leadership & Volunteering
 
-### 👨‍💼 Programmers Arena, HSTU  
+### Programmers Arena, HSTU  
 **Former Executive Member (2023 – 2025)**  
 
 - Mentored juniors in competitive programming  
