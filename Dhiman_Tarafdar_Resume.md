@@ -127,7 +127,7 @@ B.Sc. in Computer Science and Engineering
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Become a skilled Full-Stack Developer  
 - Build impactful real-world projects  
