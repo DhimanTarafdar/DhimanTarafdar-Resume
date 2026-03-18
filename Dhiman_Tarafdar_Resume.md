@@ -119,7 +119,7 @@ B.Sc. in Computer Science and Engineering
 
 ---
 
-### 👨‍🏫 School of Super Kids  
+### School of Super Kids  
 **Co-Founder & Instructor (2025 – Present)**  
 
 - Teaching kids programming basics  
