@@ -1,56 +1,139 @@
-# Dhiman Tarafdar
+# 👨‍💻 Dhiman Tarafdar
 
-Khulna, Bangladesh | +880 1820912031 | dhimantarafdar225@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/your-profile-url) | [GitHub Profile](https://github.com/DhimanTarafdar)
+📍 Parmothertala, Dumuriya, Khulna, Bangladesh  
+📧 dhimantarafdar225@gmail.com  
+📱 +8801820912031  
 
----
-
-### **Professional Summary**
-
-A highly motivated and results-oriented MERN Stack Developer with a strong foundation in Computer Science fundamentals, including Data Structures, Algorithms, and OOP. Proven ability to build full-stack web applications from concept to deployment, demonstrated through complex projects like an AI-integrated education platform and a feature-rich hotel booking system. Eager to leverage expertise in React.js, Node.js, and MongoDB to contribute to a dynamic team in a challenging remote role, delivering high-quality and scalable software solutions.
-
----
-
-### **Skills**
-
-* **Programming Languages:** JavaScript (ES6+), Python, Java, C++
-* **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, DaisyUI
-* **Backend:** Node.js, Express.js, REST APIs
-* **Database:** MongoDB
-* **Core Concepts:** Data Structures, Algorithms, Object-Oriented Programming (OOP), Networking
-* **Developer Tools:** Git, GitHub, VS Code, Firebase, Netlify, Chrome DevTools
-* **Problem Solving:** Solved 150+ problems on LeetCode, demonstrating strong analytical and logical skills.
-* **Soft Skills:** Team Collaboration, Adaptability, Leadership, Proactive Communication
+🔗 [LinkedIn](https://www.linkedin.com/in/dhimantarafdar)  
+🔗 [GitHub](https://github.com/DhimanTarafdar)  
 
 ---
 
-### **Projects**
+## 🧑‍🎓 Profile
 
-**1. StayNest | Hotel Booking & Hosting Platform**
-*A user-centric hotel booking application with advanced search and unique local guide features.*
+I am a passionate Computer Science undergraduate with a strong interest in Full-Stack Web Development and basic knowledge of Machine Learning.  
 
-* Architected a dual-functionality platform where users can both book hotels and host their own properties, managing listings and bookings through a secure user dashboard.
-* Implemented an advanced, multi-filter search algorithm to help users find hotels based on location, price, ratings, and amenities, ensuring highly relevant results.
-* Integrated third-party APIs to display interactive maps (Mapbox/Google Maps), 5-day weather forecasts, and graphical rating visualizations for each hotel listing.
-* Introduced a unique "Local Guide" booking feature, allowing travelers to hire local guides for tours, creating an additional value proposition for the platform.
+I enjoy building real-world web applications using the MERN stack and love working on responsive UI and interactive features.  
 
-2.Teacher-Student Collaboration System (Java Swing, File Handling)
+I also have a solid understanding of Data Structures, Algorithms, and Object-Oriented Programming. My goal is to continuously learn and build practical software solutions.
 
-* Developed a desktop app with login/registration, course dashboard, and review system
-* Implemented file-based data persistence and basic OOP concepts
-* Collaborated as a team to solve layout, validation, and event-handling challenges
+---
 
-### **Education**
+## 🎓 Education
 
-**Hajee Mohammad Danesh Science and Technology University (HSTU)**, Dinajpur, Bangladesh
-*Bachelor of Science (B.Sc.) in Computer Science and Engineering*
+**Hajee Mohammad Danesh Science and Technology University, Dinajpur**  
+B.Sc. in Computer Science and Engineering  
+📅 2023 – 2026 (Expected)  
 
-* CGPA: 3.75+ / 4.00
-* Expected Graduation: Dec 2027
+- CGPA: 3.75 / 4.00  
 
-**Pallisree College**
+📚 Relevant Coursework:
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Database Systems  
+- Software Engineering  
+- Artificial Intelligence  
+- Machine Learning  
 
-* GPA: 5.00 / 5.00 (Higher Secondary Certificate - HSC)
+---
 
-Pallisree Secondary School
+## 🛠️ Technical Skills
 
-* GPA: 5.00 / 5.00 (Secondary School Certificate - SSC)
+### 💻 Programming Languages
+- C, C++, Java, Python, JavaScript  
+
+### 🎨 Frontend
+- React.js, Next.js, Tailwind CSS  
+- ShadCN, Magic UI  
+
+### ⚙️ Backend
+- Node.js, Express.js  
+- REST API, Axios  
+- Mongoose  
+
+### 🗄️ Databases
+- MongoDB, MySQL  
+
+### 🤖 Machine Learning Tools
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- Google Colab, Kaggle  
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Firebase, Vercel, Netlify  
+- Figma  
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms  
+- OOP  
+- Database Management  
+- Debugging & Testing  
+
+---
+
+## 🚀 Projects
+
+### 🌐 School of Super Kids  
+**Tech:** Next.js, React, Tailwind CSS, ShadCN  
+🔗 [Live](https://www.schoolofsuperkids.com/)  
+🔗 [Source Code](https://github.com/DhimanTarafdar/KIDS-PROGRAMMING-WEB)
+
+- Built a programming learning platform for kids  
+- Created both student panel and admin dashboard  
+- Designed responsive UI for courses, profiles, and payments  
+- Worked in a team to maintain design consistency  
+
+---
+
+### 🌐 Dev Bangladesh  
+**Tech:** Next.js, React, Tailwind CSS, ShadCN  
+🔗 [Live](https://www.devbangladesh.com/)  
+🔗 [Source Code](https://github.com/DhimanTarafdar/company-website)
+
+- Developed a modern company website  
+- Implemented dark/light mode and interactive UI  
+- Built components like navbar, FAQ, animations  
+- Handled full frontend architecture  
+
+---
+
+### 💻 Teacher-Student Collaboration System  
+**Tech:** Java, Java Swing  
+
+- Built a desktop app with login & course system  
+- Implemented file-based data storage  
+- Applied OOP for clean and modular code  
+- Worked on validation and UI handling  
+
+---
+
+## 🏆 Leadership & Volunteering
+
+### 👨‍💼 Programmers Arena, HSTU  
+**Former Executive Member (2023 – 2025)**  
+
+- Mentored juniors in competitive programming  
+- Helped organize programming contests and events  
+
+---
+
+### 👨‍🏫 School of Super Kids  
+**Co-Founder & Instructor (2025 – Present)**  
+
+- Teaching kids programming basics  
+- Building an online coding platform in Bangladesh  
+
+---
+
+## 🎯 Goals
+
+- Become a skilled Full-Stack Developer  
+- Build impactful real-world projects  
+- Learn Backend deeply and explore AI/ML integration  
+- Contribute to open-source and research in future  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to connect with me.*
